@@ -11,7 +11,7 @@ class School
     @roster.each do |grade, student_name|
       @roster[grade] = []
       @roster[grade] << student_name
-      
+
     end
     @roster
    end
