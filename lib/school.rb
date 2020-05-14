@@ -1,8 +1,10 @@
 # code here!
 class School
-  roster = {}
+  attr_accessor :roster
 
-
+  def roster
+    {}
+  end
   def add_student(student_name, grade)
 
   end
