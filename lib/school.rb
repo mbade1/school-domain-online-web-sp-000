@@ -2,6 +2,6 @@
 class School
   def initialize(roster)
     @roster = roster
-  enacted
+  end
 
 end
