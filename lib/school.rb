@@ -15,7 +15,7 @@ class School
       @roster[grade] << student_name
       counter += 1
     end
-      
+
     # if @roster.length >= 0
     #   @roster[grade] << student_name
     # end
